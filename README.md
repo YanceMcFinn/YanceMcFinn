@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean Cole</h1>
-<h3 align="center">Hello! I'm a fullstack developer (but I LOVE frontend) who enjoys problem solving.</h3>
+<h3 align="center">Hello! I'm a fullstack developer (but I have a soft spot for frontend) who loves problem solving.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yancemcfinn" alt="yancemcfinn" /></a> </p>
 
