@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **seancoledesign@gmail.com**
 
-- ⚡ Fun fact **Fun fact I also enjoy voice acting - my big dream is to do video games/animations one day!**
+- ⚡ Fun fact **I also enjoy voice acting - my big dream is to do video games/animations one day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
